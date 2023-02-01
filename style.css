@@ -1,0 +1,22 @@
+#map{
+    height: 500px;
+    width: 96%;
+    margin: 10px auto;
+    border: 2px solid black;
+}
+
+.setArea {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.dwnLayer {
+    background-color: #18dcff;
+    border-radius: 6px;
+}
+
+.dwnLayer h6 {
+    padding: 10px 8px;
+
+}
